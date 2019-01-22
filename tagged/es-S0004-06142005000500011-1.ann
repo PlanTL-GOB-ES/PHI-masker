@@ -1,0 +1,70 @@
+T1	CORREO_ELECTRONICO 2405 2423	nnavcu@hotmail.com
+#1	AnnotatorNotes T1	<null>
+T2	PAIS 2390 2396	España
+#2	AnnotatorNotes T2	<null>
+T3	TERRITORIO 2382 2388	Madrid
+#3	AnnotatorNotes T3	<null>
+T4	TERRITORIO 2376 2381	28036
+#4	AnnotatorNotes T4	<null>
+T5	CALLE 2349 2375	c/ del Abedul 5-7, 2º dcha
+#5	AnnotatorNotes T5	<null>
+T6	NOMBRE_PERSONAL_SANITARIO 288 311	Ignacio Navarro Cuéllar
+#6	AnnotatorNotes T6	<null>
+T7	NOMBRE_PERSONAL_SANITARIO 2325 2348	Ignacio Navarro Cuéllar
+#7	AnnotatorNotes T7	<null>
+T8	EDAD_SUJETO_ASISTENCIA 373 380	70 años
+#8	AnnotatorNotes T8	<null>
+T9	ID_TITULACION_PERSONAL_SANITARIO 319 330	28 28 70973
+#9	AnnotatorNotes T9	<null>
+T10	FECHAS 268 278	12/12/2016
+#10	AnnotatorNotes T10	<null>
+T11	SEXO_SUJETO_ASISTENCIA 248 249	H
+#11	AnnotatorNotes T11	<null>
+T12	EDAD_SUJETO_ASISTENCIA 234 241	70 años
+#12	AnnotatorNotes T12	<null>
+T13	PAIS 221 227	España
+#13	AnnotatorNotes T13	<null>
+T14	FECHAS 206 214	03/03/19
+#14	AnnotatorNotes T14	<null>
+T15	TERRITORIO 159 164	28016
+#15	AnnotatorNotes T15	<null>
+T16	TERRITORIO 148 154	Madrid
+#16	AnnotatorNotes T16	<null>
+T17	CALLE 102 125	Calle Miguel Benitez 90
+#17	AnnotatorNotes T17	<null>
+T18	ID_ASEGURAMIENTO 78 89	26 63514095
+#18	AnnotatorNotes T18	<null>
+T19	ID_SUJETO_ASISTENCIA 65 71	368503
+#19	AnnotatorNotes T19	<null>
+T20	NOMBRE_SUJETO_ASISTENCIA 47 59	Rivera Bueno
+#20	AnnotatorNotes T20	<null>
+T21	NOMBRE_SUJETO_ASISTENCIA 28 35	Ernesto
+#21	AnnotatorNotes T21	<null>
+T22	ID_TITULACION_PERSONAL_SANITARIO_PREDICTED 319 324	28 28
+#22	AnnotatorNotes T22	<null> (automatic suggestion)
+T23	NOMBRE_SUJETO_ASISTENCIA_PREDICTED 108 114	Miguel
+#23	AnnotatorNotes T23	<null> (automatic suggestion)
+T24	NOMBRE_SUJETO_ASISTENCIA_PREDICTED 288 295	Ignacio
+#24	AnnotatorNotes T24	<null> (automatic suggestion)
+T25	NOMBRE_SUJETO_ASISTENCIA_PREDICTED 2325 2332	Ignacio
+#25	AnnotatorNotes T25	<null> (automatic suggestion)
+T26	ID_TITULACION_PERSONAL_SANITARIO_PREDICTED 319 324	28 28
+#26	AnnotatorNotes T26	<null> (automatic suggestion)
+T27	NOMBRE_SUJETO_ASISTENCIA_PREDICTED 108 114	Miguel
+#27	AnnotatorNotes T27	<null> (automatic suggestion)
+T28	NOMBRE_SUJETO_ASISTENCIA_PREDICTED 288 295	Ignacio
+#28	AnnotatorNotes T28	<null> (automatic suggestion)
+T29	NOMBRE_SUJETO_ASISTENCIA_PREDICTED 2325 2332	Ignacio
+#29	AnnotatorNotes T29	<null> (automatic suggestion)
+T30	TERRITORIO_PREDICTED 1066 1071	grado
+#30	AnnotatorNotes T30	<null> (automatic suggestion)
+T31	ID_TITULACION_PERSONAL_SANITARIO_PREDICTED 319 324	28 28
+#31	AnnotatorNotes T31	<null> (automatic suggestion)
+T32	NOMBRE_SUJETO_ASISTENCIA_PREDICTED 108 114	Miguel
+#32	AnnotatorNotes T32	<null> (automatic suggestion)
+T33	NOMBRE_SUJETO_ASISTENCIA_PREDICTED 288 295	Ignacio
+#33	AnnotatorNotes T33	<null> (automatic suggestion)
+T34	NOMBRE_SUJETO_ASISTENCIA_PREDICTED 2325 2332	Ignacio
+#34	AnnotatorNotes T34	<null> (automatic suggestion)
+T35	TERRITORIO_PREDICTED 1066 1071	grado
+#35	AnnotatorNotes T35	<null> (automatic suggestion)
