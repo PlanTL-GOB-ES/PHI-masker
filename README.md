@@ -52,7 +52,7 @@ It is possible to configure the behavior of this software using the different op
 
   - The `input`, `tagged`, and `output` folder options allow to change the default folders.
   
-  - `Verbose` and `quiet` options allows to control the verbosity level of the software.
+  - `Verbose` and `quiet` options allow to control the verbosity level of the software.
   
   - `Custom Masking` option allows to provide a file with custom label-mask substitutions.
   See `Custom Masking` below for more detailed information.
