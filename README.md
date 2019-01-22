@@ -10,7 +10,7 @@
 
 This software masks Protected Health Information (PHI) in documents that have been 
 previously annotated with Brat. It replaces the span of text of the annotations by 
-the label assigned to that span. For instance, it replaces a common name annotation
+the label assigned to that span. For instance, it replaces a proper name annotation
 by the label PERSON or the name of a city by CITY.
 
 
