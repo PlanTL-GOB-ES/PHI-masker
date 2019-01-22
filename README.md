@@ -11,7 +11,7 @@
 This software masks Protected Health Information (PHI) in documents that have been 
 previously annotated with Brat. It replaces the span of text of the annotations by 
 the label assigned to that span. For instance, it replaces a proper name annotation
-by the label PERSON or the name of a city by CITY.
+by the label `PERSON` or the name of a city by `CITY`.
 
 
 Additionally, it is possible to use a mask file to provide custom sustitution masks
@@ -33,8 +33,8 @@ This folder contains the text files defined custom label-mask substitutions. See
 `Custom Masking` below for more detailed information. 
 
 input/
-This folder contains the original corpus in plain text format. These files must have
-be stored with `.txt` suffix.
+This folder contains the original corpus in plain text format. These files must be 
+stored with `.txt` suffix.
 
 tagged/
 This folder contains the annotation files in Brat annotation format. These files must 
