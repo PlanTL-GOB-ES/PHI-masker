@@ -50,7 +50,7 @@ Default folder to store the output masked files, with `.txt` suffix.
 
 It is possible to configure the behavior of this software using the different options.
 
-  - The `input`, `tagged`, and `output` folder options allow to change the default folders.
+  - The `input_dir`, `tagged_dir`, and `output_dir` options allow to change the default folders.
   
   - `Verbose` and `quiet` options allow to control the verbosity level of the software.
   
