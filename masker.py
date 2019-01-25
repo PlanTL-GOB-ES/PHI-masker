@@ -57,11 +57,14 @@ def load_annotations(ann_file):
     for row in ann_file:
         line = row.strip()
         if line.startswith("T"):  # Lines is a Brat TAG
-            label = line.split("\t")[1].split()
-            tag = label[0]
-            start = int(label[1])
-            end = int(label[2])
-            form = line.split("\t")[2]
+            try:
+                label = line.split("\t")[1].split()
+                tag = label[0]
+                start = int(label[1])
+                end = int(label[2])
+                form = line.split("\t")[2]
+            except IndexError:
+                print("ERROR! Index error while splitting sentence '" + line + "' in document '" + ann_file + "'!")
             # If custom_only option is activated store only labels on custom_file
             if args.custom_only:
                 if tag in custom_masks.keys():
