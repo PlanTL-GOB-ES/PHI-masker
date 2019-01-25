@@ -57,7 +57,7 @@ def load_annotations(ann_file):
     for row in ann_file:
         line = row.strip()
         if line.startswith("T"):  # Lines is a Brat TAG
-            label = line.split("\t")[1].split(" ")
+            label = line.split("\t")[1].split()
             tag = label[0]
             start = int(label[1])
             end = int(label[2])
