@@ -64,7 +64,8 @@ def load_annotations(ann_file):
                 end = int(label[2])
                 form = line.split("\t")[2]
             except IndexError:
-                print("ERROR! Index error while splitting sentence '" + line + "' in document '" + ann_file + "'!")
+                if not args.quiet:
+                    print("ERROR! Index error while splitting sentence '" + line + "' in document '" + ann_file + "'!")
             # If custom_only option is activated store only labels on custom_file
             if args.custom_only:
                 if tag in custom_masks.keys():
